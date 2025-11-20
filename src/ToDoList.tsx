@@ -15,10 +15,7 @@ const ToDoList = () => {
   } = useToDoList();
 
   return (
-    <div className="p-2 md:p-4 border-2 rounded-lg border-gray-200 text-center">
-      <span className="block">
-        <strong>To Do List App</strong>
-      </span>
+    <div className="mt-6 p-4 max-w-xl md:min-w-[500px] mx-auto border-2 rounded-lg border-gray-200 text-center">
       <form onSubmit={handleSubmit} className="mt-4 flex justify-center">
         <div className="md:flex flex-wrap justify-between content-center items-center">
           <label htmlFor="">
