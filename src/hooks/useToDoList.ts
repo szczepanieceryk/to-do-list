@@ -39,9 +39,7 @@ const useToDoList = () => {
 
     if (task.trim()) {
       setDisplayedTask([...displayedTask, task]);
-      console.log('displayedTask ', displayedTask);
       setTask('');
-      console.log('submit form ');
     }
   };
 
