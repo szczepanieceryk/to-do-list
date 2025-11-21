@@ -1,25 +1,12 @@
-# Opanuj Frontend: AI Edition - Frontend Bootstrap
+# To Do App List
 
-![](./_resources/img/header.png)
+## Manage your tasks with a [To do list]('https://szczepanieceryk.github.io/to-do-list/')
 
-## Co w środku?
+### How to add & delete tasks
 
-Bootstrap projektu opartego o następujące narzędzia:
-
-- [editorconfig](https://editorconfig.org/)
-- [eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [React](https://www.npmjs.com/package/@vitejs/plugin-react) (wymień na [Svelte](https://www.npmjs.com/package/@sveltejs/vite-plugin-svelte) lub [Vue](https://www.npmjs.com/package/@vitejs/plugin-vue))
-- [Playwright](https://playwright.dev)
-- [Tailwind](https://tailwindui.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vite.dev/)
-- [Vitest](https://vitest.dev/)
-
-## Pierwsze kroki
-
-```bash
-nvm use
-npm install
-npm run dev
-```
+1. Type your task in input
+2. Click add task
+3. Once the task is done you can delete it by clicking red 'x'
+4. You can also mark & delete multiple taks:
+   - Select tasks by radio input on the left side of a task
+   - click on 'Clear task(s)' button to delete all marked tasks
