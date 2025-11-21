@@ -1,6 +1,6 @@
 # To Do App List
 
-## Manage your tasks with a [To do list]('https://szczepanieceryk.github.io/to-do-list/')
+## Manage your tasks with a [To do list 🗓️](https://szczepanieceryk.github.io/to-do-list/)
 
 ### How to add & delete tasks
 
