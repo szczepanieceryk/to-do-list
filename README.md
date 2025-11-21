@@ -1,4 +1,4 @@
-# To Do App List
+# To Do List App
 
 ## Manage your tasks with a [To do list 🗓️](https://szczepanieceryk.github.io/to-do-list/)
 
