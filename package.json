@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/szczepanieceryk/to-do-list",
-  "name": "frontend-bootstrap",
+  "name": "to-do-list",
   "version": "1.0.0",
-  "description": "Opinionated frontend bootstrap",
+  "description": "To Do List App",
   "main": "index.js",
   "type": "module",
   "scripts": {
